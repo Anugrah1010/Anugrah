@@ -1,1 +1,1 @@
-# Anugrah
+Program diatas merupakan  implementasi dari tiga kelas objek (Mahasiswa, Jurusan, dan Universitas) dalam bahasa pemrograman Python. Program tersebut bertujuan untuk mengelola data mahasiswa dan jurusan di sebuah universitas. Dalam program ini, kita dapat membuat objek mahasiswa, jurusan, dan universitas, serta menambahkan mahasiswa ke jurusan dan jurusan ke universitas. Program juga dapat menampilkan daftar jurusan yang ada di universitas dan daftar mahasiswa yang terdaftar dalam suatu jurusan di universitas tersebut.
